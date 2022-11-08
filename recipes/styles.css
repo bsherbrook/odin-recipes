@@ -1,0 +1,54 @@
+body {  
+        text-align: center;
+        color: white;
+        background-color: black;
+        font-size: 30px;
+}
+
+.header {
+        font-size: 60px;
+        font-weight: bolder;
+}
+
+.header.mac {
+        color: yellow;
+}
+
+.header.kimchi {
+        color: red
+}
+
+.header.garlic {
+        color: rgb(133, 255, 40);
+}
+
+.imgkim {
+        height: auto;
+        width: 1000px;
+}
+
+.imggar {
+        height: auto;
+        width: 600px;
+}
+
+.imgmac {
+        height:auto;
+        width: 750px;
+}
+
+.title {
+        font-size: 35px;
+}
+
+.title.mac {
+        color: yellow;
+}
+
+.title.kim {
+        color: red;
+}
+
+.title.gar { 
+        color: rgb(133, 255, 40) ;
+}
